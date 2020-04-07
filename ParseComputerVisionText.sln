@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseComputerVisionText", "ParseComputerVisionText\ParseComputerVisionText.csproj", "{BC017B97-DFB5-4FDE-81B7-196C778DA3A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC017B97-DFB5-4FDE-81B7-196C778DA3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC017B97-DFB5-4FDE-81B7-196C778DA3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC017B97-DFB5-4FDE-81B7-196C778DA3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC017B97-DFB5-4FDE-81B7-196C778DA3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E1D0E99-06C5-49CA-8E71-E1DB3BD52C90}
+	EndGlobalSection
+EndGlobal
